@@ -17,7 +17,7 @@ def string_match(text, pattern):
 
 
 def main():
-    text = 'ababcabc'
+    text = 'ababcjriabcofjroigabc'
     pattern = 'abc'
     string_match(text, pattern)
 
